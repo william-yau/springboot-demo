@@ -1,8 +1,5 @@
-<html>
- <head>
-  <title>PHP ≤‚ ‘</title>
- </head>
- <body>
- <?php echo '<p>Hello World</p>'; ?>
- </body>
-</html>
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello 2");
+    }
+}
